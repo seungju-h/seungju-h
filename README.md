@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+SJ.;Happy+to+see+you!&repeat=false&color=72BF91&size=25)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+SJ.&multiline=true&repeat=false&color=72BF91&size=25)](https://git.io/typing-svg)
 
 
 #### About me
