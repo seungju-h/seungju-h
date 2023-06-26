@@ -3,7 +3,6 @@
 
 #### About me
 * Currently studying to be a Data Analyst
-* Based in Seoul, Korea
 
 #### Contact me
 * I will add buttons later
