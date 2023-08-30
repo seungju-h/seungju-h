@@ -2,4 +2,4 @@
 
 
 #### About me
-* Currently studying to be a Data Analyst
+*	Actively participating in a Data Analytics Boot Camp to be a Data Analyst
